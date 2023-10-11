@@ -1,0 +1,6 @@
+env: env
+
+         print a list of the current environment variables, or to run another
+	  program in a custom environment without modifying the current one.
+
+Usage: env
