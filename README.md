@@ -1,6 +1,6 @@
 
 FFF
-FASFASFAS:wfasfagggggweefwerewrgggsqFASFASfasfasfaFg
+FASFASFAS:wfasfagggggweefwerewfrgggsqFASFASfasfasfaFg
 gdfafasfass<h1 align=center>
   Simple shell 🛰️
 </h1>
