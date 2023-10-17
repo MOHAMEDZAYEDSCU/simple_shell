@@ -1,6 +1,6 @@
 
 FFF
-F<h1 align=center>
+<h1 align=center>
   Simple shell 🛰️
 </h1>
 
